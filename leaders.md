@@ -1,2 +1,2 @@
 ### Leaders
-* [Mantas Sasnauskas](mailto:mantas.sanauskas@owasp.org)
+* [Mantas S.](mailto:mantas.sanauskas@owasp.org)
