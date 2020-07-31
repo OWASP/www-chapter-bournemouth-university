@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Bournemouth University
 tags: example-tag
 region: 
+meetup-group: OWASP-Bournemouth-University-Student-Chapter
+country: United Kingdom
+postal-code: 
 
 ---
 
