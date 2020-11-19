@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Bournemouth University
+title: OWASP Bournemouth University - Student Chapter
 tags: example-tag
 region: 
 meetup-group: OWASP-Bournemouth-University-Student-Chapter
